@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListCountry</string>
+    <string name="str_region">Region</string>
+    <string name="str_Africa">Africa</string>
+    <string name="str_Americas">Americas</string>
+    <string name="str_Asia">Asia</string>
+    <string name="str_Europe">Europe</string>
+    <string name="str_Oceania">Oceania</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="str_connect">Connection....</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Search the records</string>
+    <string name="btn_retry">Retry</string>
+</resources>
